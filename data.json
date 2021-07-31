@@ -1,9 +1,26 @@
 {
-  "data": [
-    {
-      "name": "Fast And Furious 9 ",
-      "imageurl": "https://sntv24samachar.com/wp-content/uploads/2021/06/Fast-and-furious-9-full-movie-download-in-Hindi-720p-1280x720-1-1024x576.jpg",
-      "videourl": "http://s43.uptofiles.net//files/Tamil%202021%20Movies/Methagu%20(2021)/Methagu%20(Tamil%20Movie)/Methagu%20(Original)/Methagu%20(640x360)/Methagu%202021%20HD%20Sample.mp4"
+  "Songs" : [
+    "-MfeutJ92SK5KV6Wnveh" : {
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/mplayer-75046.appspot.com/o/Thumbnails%2FOlikuchi-Udambukari.mp3?alt=media&token=e6febcb6-a2d6-43a3-8fe6-c745e5583e13",
+      "songArtist" : "Olikuchi Udambukari",
+      "songDuration" : "6:26",
+      "songName" : "Olikuchi-Udambukari.mp3",
+      "songUrl" : "https://p-def4.pcloud.com/cBZ4tdr31ZxQIP0CZZZNoRMv7Z2ZZlUHZkZb5nrZAJZ5pZ4FZHHZ4pZdpZpJZqJZvpZVHZ9FZQzZszZkVZaHCxXZaprvKw6xMlXKkbYw7dWn8kXeb2Xk/Olikuchi-Udambukari.mp3"
     },
-]
+    "-MfevZsinfwtrb-bMSHo" : {
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/mplayer-75046.appspot.com/o/Thumbnails%2FStrawberry-MassTamilan.fm.mp3?alt=media&token=be83f3d1-2d68-4fec-be86-8fc4199e954e",
+      "songArtist" : "Strawberry",
+      "songDuration" : "3:09",
+      "songName" : "Strawberry-MassTamilan.fm.mp3",
+      "songUrl" : "https://firebasestorage.googleapis.com/v0/b/mplayer-75046.appspot.com/o/Audios%2FStrawberry-MassTamilan.fm.mp3?alt=media&token=b4f6f68c-d968-4a13-8d53-d30d36c340bf"
+    },
+    "-MfplieMoe_mHt_yiomN" : {
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/mplayer-75046.appspot.com/o/Thumbnails%2FAadaludan%20Paadalai%20%20Video%20Song%20%20Motta%20S.mp3?alt=media&token=a3cadbfa-e6a2-4499-9151-0619d5b9aa0c",
+      "songArtist" : "Aadaludan Paadalai  Video Song  Motta S.mp3",
+      "songDuration" : "4:18",
+      "songName" : "Aadaludan Paadalai  Video Song  Motta S.mp3",
+      "songUrl" : "https://firebasestorage.googleapis.com/v0/b/mplayer-75046.appspot.com/o/Audios%2FAadaludan%20Paadalai%20%20Video%20Song%20%20Motta%20S.mp3?alt=media&token=035f81aa-fc2b-4aa8-82c7-532629a1116c"
+    }
+  ]
 }
+
